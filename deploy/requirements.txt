@@ -1,0 +1,9 @@
+altair==4.2.2
+streamlit
+pandas
+seaborn
+matplotlib
+numpy
+scikit-learn
+feature_engine
+tensorflow
